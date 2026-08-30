@@ -2,8 +2,9 @@
 
 # hello, it's me Jazdy!
 
-
 </div>
+
+--- 
 
 ### about
 
