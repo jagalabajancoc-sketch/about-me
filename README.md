@@ -1,8 +1,5 @@
-<div align="center">
-
 # hello, it's me Jazdy!
-
-</div>
+--- 
 
 ### about
 
