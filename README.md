@@ -2,10 +2,9 @@
 
 # hello, it's me Jazdy!
 
-div align="right">
-  [facebook](https://web.facebook.com/profile.php?id=61593620894283) | [portfolio](https://your-portfolio-link.com) | [linkedin](https://linkedin.com)
 </div>
-
+<div align="right">
+  [facebook](https://web.facebook.com/profile.php?id=61593620894283) | [portfolio](https://your-portfolio-link.com) | [linkedin](https://linkedin.com)
 </div>
 
 --- 
