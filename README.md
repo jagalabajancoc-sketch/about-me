@@ -4,9 +4,9 @@
 
 </div>
 <div align="center">
-  <a href="https://web.facebook.com/profile.php?id=61593620894283">facebook</a> | 
-  <a href="https://your-portfolio-link.com">portfolio</a> | 
-  <a href="https://linkedin.com">linkedin</a>
+  <a href="https://web.facebook.com/profile.php?id=61593620894283" target="_blank" rel="noopener noreferrer">facebook</a> | 
+  <a href="https://your-portfolio-link.com" target="_blank" rel="noopener noreferrer">portfolio</a> | 
+  <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">linkedin</a>
 </div>
 
 --- 
