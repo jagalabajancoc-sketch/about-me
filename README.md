@@ -1,9 +1,9 @@
-<div align="left">
+<div align="center">
 
 # hello, it's me Jazdy!
 
 </div>
-<div align="right">
+<div align="center">
   <a href="https://web.facebook.com/profile.php?id=61593620894283">facebook</a> | 
   <a href="https://your-portfolio-link.com">portfolio</a> | 
   <a href="https://linkedin.com">linkedin</a>
