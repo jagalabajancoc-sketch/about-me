@@ -2,15 +2,8 @@
 
 # hello, it's me Jazdy!
 
-![Static Badge](https://img.shields.io/badge/HTML-black?style=flat-square)
-![Static Badge](https://img.shields.io/badge/CSS-black?style=flat-square)
-![Static Badge](https://img.shields.io/badge/JavaScript-black?style=flat-square)
-![Static Badge](https://img.shields.io/badge/Node.js-black?style=flat-square)
-![Static Badge](https://img.shields.io/badge/MongoDB-black?style=flat-square)
 
 </div>
-
---- 
 
 ### about
 
