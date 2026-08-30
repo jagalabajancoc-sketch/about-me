@@ -4,7 +4,7 @@
 
 </div>
 <div align="right">
-  <a href="(https://web.facebook.com/profile.php?id=61593620894283)">facebook</a> | 
+  <a href="[(https://web.facebook.com/profile.php?id=61593620894283)](https://web.facebook.com/profile.php?id=61593620894283)">facebook</a> | 
   <a href="https://your-portfolio-link.com">portfolio</a> | 
   <a href="https://linkedin.com">linkedin</a>
 </div>
