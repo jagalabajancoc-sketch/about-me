@@ -4,7 +4,7 @@
 
 </div>
 <div align="right">
-  [facebook](https://web.facebook.com/profile.php?id=61593620894283) | [portfolio](https://your-portfolio-link.com) | [linkedin](https://linkedin.com)
+  [facebook](https://facebook.com) | [portfolio](https://your-portfolio-link.com) | [linkedin](https://linkedin.com)
 </div>
 
 --- 
