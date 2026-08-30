@@ -41,6 +41,6 @@ I am a system developer based in Cagayan de Oro City, Philippines. I specialize 
 
 <div align="center">
 
-<sub>Reach me through my email: jaga.labajan.coc@phinmaed.com</sub>
+<sub>reach me through my email: jaga.labajan.coc@phinmaed.com</sub>
 
 </div>
