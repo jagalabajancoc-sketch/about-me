@@ -15,7 +15,7 @@
 
 I am a system developer based in Cagayan de Oro City, Philippines. I specialize in building websites for local businesses, focusing on clean structure and straightforward code. I use Vanilla JavaScript for front-end development, paired with Node.js, Express, and MongoDB on the back end when a project requires it.
 
-### what I work with
+### work with
 
 | Layer | Tools |
 |---|---|
