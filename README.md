@@ -21,7 +21,7 @@ I am a system developer based in Cagayan de Oro City, Philippines. I specialize 
 |---|---|
 | Front-end | HTML, CSS, Vanilla JavaScript, Bootstrap, Dart & Flutter |
 | Back-end | Node.js, Express |
-| Database | MongoDB, Mongoose, |
+| Database | MongoDB, Mongoose |
 | Tools & Hosting | Vercel, Git, GitHub, VS Code, XAMPP, NetBeans |
 
 ### currently
